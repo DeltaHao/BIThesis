@@ -11,7 +11,7 @@
 
 </div>
 
-<h2>Welcome</h2>
+<h2>Welcome to BIThesis</h2>
 
 BIThesis is an unofficial LaTeX template set for your **bachelor graduation thesis** and corresponding reports here at BIT. Hand-crafted following the specifications made by the _[Dept. of Undergraduate Academic Affairs](http://jwc.bit.edu.cn/)_ of _[Beijing Institute of Technology](http://http://www.bit.edu.cn/)_.
 
